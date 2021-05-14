@@ -1,0 +1,46 @@
+/* add your CSS here */
+ /* body{
+    font-family: 'Ubuntu', sans-serif;    
+}  */
+.container{
+    width: 320px;
+    margin: 50px;   
+    box-shadow: 3px 3px 10px 3px #ccc;
+    padding: 10px;  
+    /* background-color: cadetblue;*/
+    
+} 
+
+h3{
+    font-weight: bold;
+    padding: 5px;
+}
+
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;    
+}
+
+img{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+}
+
+.content{    
+    margin: 10px;
+    box-shadow: 0px 0px 0px 1px #ccc;
+    padding: 10px;    
+}
+
+.facts{
+    font-style: italic;
+    padding: 5px;
+}
+
+.detail{
+    font-weight: bold;
+    margin: 0;
+}
